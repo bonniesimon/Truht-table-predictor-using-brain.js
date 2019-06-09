@@ -1,7 +1,7 @@
-# Data-table-predictor-using-brain.js
-A Machine Learning program to predict the output of the given data using brain.js.
+# Truth-table-predictor-using-brain.js
+A Machine Learning program to predict the output of the given truth table using brain.js.
 
-Data table  :
+Truth table  :
 
 | Input 1 | Input 2 | Input 3 | Output |
 |---------|---------|---------|--------|
