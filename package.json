@@ -1,0 +1,11 @@
+{
+  "name": "ml-brain.js",
+  "version": "1.0.0",
+  "description": "A ML program using brain.js to predict simple data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bonnie Simon",
+  "license": "ISC"
+}
